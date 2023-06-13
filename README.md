@@ -46,11 +46,6 @@
 <br>
 
 # 📊 GitHub Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsraghavsharma&layout=compact&theme=tokyonighthttps://github.com/itsraghavsharma/github-readme-stats) <br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsraghavsharma&theme=dark&border_radius=7.6)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsraghavsharma&theme=tokyonight&border_radius=7.6)
 
 <br>

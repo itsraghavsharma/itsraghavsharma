@@ -38,14 +38,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/itsraghavsharma](https://github.com/itsraghavsharma)
 
 <br>
-
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/itsraghavsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/itsraghavsharma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/goraiRaghav108?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@Raghavshandil3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Raghavgorain12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Raghav_22" height="30" width="40" /></a>
-</p> -->
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>

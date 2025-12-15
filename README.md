@@ -20,7 +20,7 @@
 
 <br>
 
-![Raghav's GitHub stats]( https://github-readme-stats-stp2003.vercel.app/api?username=itsraghavsharma&show_icons=true&theme=tokyonight&border_radius=7.6)
+![Raghav's GitHub stats]( https://github-readme-stats-stp2003.vercel.app/api?username=itsraghavsharma&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=7.6)
 
 
 
